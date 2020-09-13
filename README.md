@@ -31,6 +31,12 @@ Font:
 ```
 ?font=un-abhaya
 ```
+Available fonts: 
+
+`un-abhaya`, `un-alakamanda`, `un-arundathee`, `un-basuru`, `un-bindumathi`, `un-davasa`, `un-derana`, `un-dharanee`, `un-disapamok`, `un-ganganee`, `un-gemunu`, `un-gurulugomi`, `un-imanee`, `un-indeewaree`, `un-isiwara`,`un-malithi`, `un-rajantha`, `un-rashmi`, `un-samantha`, `un-sandhyanee`
+
+
+
 
 
 ### Example
